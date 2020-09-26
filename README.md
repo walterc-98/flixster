@@ -22,3 +22,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
+- Challenges that occured during this assignment was understanding the implementation of connecting the labels and image view in the view cell.
+- Understanding how the storyboards help with the UI and how it can be implemented in the backend such as getting the information in a form of a dictionary.
+- Dictionaries was a topic that was challenging because it was a topic that I wasn't familiar.
