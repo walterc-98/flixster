@@ -23,6 +23,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### Notes
 Describe any challenges encountered while building the app.
 
+- Challenges that I encountered was being able to understand how the UI Image view can help with creating
+  grid in the grid controller.
+- Understanding the prepare function was another challenge becuase I wasn't clear on how important it can be when implementing it
+  to different view controllers.
+
 ## Flix Part 1
 
 ### User Stories
